@@ -1,0 +1,2 @@
+version=3
+opts=dversionmangle=s/~git.*$// https://bitbucket.org/jurko/suds/downloads .*/suds-jurko-(\d\S*)\.tar\.bz2
